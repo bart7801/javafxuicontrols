@@ -1,5 +1,3 @@
-package pl.sda.academy.javalon1.javafxuicontrols;
-
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;

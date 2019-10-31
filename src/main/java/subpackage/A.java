@@ -1,4 +1,4 @@
-package pl.sda.academy.javalon1.javafxuicontrols.subpackage;
+package subpackage;
 
 public abstract class A {
     public A(int x, int y, int z) {

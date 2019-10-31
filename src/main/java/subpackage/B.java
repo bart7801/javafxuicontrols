@@ -1,4 +1,4 @@
-package pl.sda.academy.javalon1.javafxuicontrols.subpackage;
+package subpackage;
 
 class B extends A {
     int x;
